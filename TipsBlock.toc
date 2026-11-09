@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: TipsBlock
+## Notes: Suppresses yellow "unopened items" and other microbutton alerts
+## Author: Dogmax
+## Version: 1.0
+
+TipsBlock.lua
